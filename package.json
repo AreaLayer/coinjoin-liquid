@@ -1,0 +1,13 @@
+{
+  "name": "coinjoin-demo",
+  "version": "1.0.0",
+  "description": "A demo project for CoinJoin transactions using bitcoinjs-lib and liquidjs-lib",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bitcoinjs-lib": "^6.1.0",
+    "liquidjs-lib": "^0.11.0"
+  }
+}

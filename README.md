@@ -5,3 +5,7 @@
 ## How works 
 
 TBD
+
+## Roadmap
+
+- [ ] FOSS

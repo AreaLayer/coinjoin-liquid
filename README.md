@@ -4,7 +4,10 @@
 
 ## How works 
 
-TBD
+- People make P2P Coinjoin or open/close channel
+- And then make peg-in to L-BTC
+- Mix UTXOs during pegs
+- Later make UTXO consolidation
 
 ## Roadmap
 
